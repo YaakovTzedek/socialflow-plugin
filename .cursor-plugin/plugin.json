@@ -1,0 +1,21 @@
+{
+  "name": "socialflow",
+  "displayName": "SocialFlow",
+  "version": "1.0.0",
+  "description": "Connect the Facebook Pages and Instagram Business accounts you manage. List posts and comments, run automations, and publish approved posts from your AI assistant.",
+  "author": {
+    "name": "SocialFlow"
+  },
+  "homepage": "https://isocialflow.com",
+  "repository": "https://github.com/YaakovTzedek/socialflow-plugin",
+  "license": "MIT",
+  "keywords": [
+    "socialflow",
+    "instagram",
+    "facebook",
+    "comments",
+    "automation",
+    "mcp"
+  ],
+  "logo": "assets/logo.png"
+}
